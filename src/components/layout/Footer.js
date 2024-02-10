@@ -6,7 +6,7 @@ const Footer = () => {
       <div></div>
       <div className="copyright">
         <div className="container">
-          <span>@Aquatic Chemistry Laboratory</span>
+          <span>@Environmental Geo Chemistry Laboratory(EGL)</span>
         </div>
       </div>
     </footer>

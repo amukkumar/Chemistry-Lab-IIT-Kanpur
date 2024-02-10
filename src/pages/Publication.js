@@ -24,7 +24,8 @@ const Publication = () => {
             <ul>
               {publications.map((item, index) => (
                 <li key={index} className="publications-list">
-                  <p>{item.title}</p>
+                  <p>{`${item.author}${item.title}`}</p>
+                  <p>{item.data}</p>
                 </li>
               ))}
             </ul>

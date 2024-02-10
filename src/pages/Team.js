@@ -1,5 +1,5 @@
 import React from "react";
-import { msrStudent, students, teams } from "../utils/constants";
+import { msrStudent, pastMTech, pastPhdStudent, students, teams } from "../utils/constants";
 import TeamCard from "../components/TeamCard";
 import { Link } from "react-router-dom";
 
@@ -31,9 +31,6 @@ const Team = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="info-about-heading">
-                            Current Phd Candidates
-                        </div>
                         <div className="cards-wrapper">
                             {teams.map((team, index) => (
                                 <TeamCard item={team} key={index} />
@@ -59,40 +56,53 @@ const Team = () => {
                             Past Phd  Scholars
                         </div>
                         <div className="cards-wrapper">
-                            {teams.map((team, index) => (
+                            {pastPhdStudent.map((team, index) => (
+                                <TeamCard item={team} key={index} />
+                            ))}
+                        </div>
+                        <div className="info-about-heading">
+                            Past M.tech and MS (By Research)
+                        </div>
+                        <div className="cards-wrapper">
+                            {pastMTech.map((team, index) => (
                                 <TeamCard item={team} key={index} />
                             ))}
                         </div>
                         <div className="info-about-heading">Lab Alumni</div>
                         <div className="cards-wrapper">
                             <div className="aluminis-card">
-                                <h4>Ph.D</h4>
+                                <h4>M-Tech</h4>
                                 <ul>
-                                    {teams.map((team, index) => (
-                                        <li key={index}>
-                                            {team.name},{team.to}
-                                        </li>
-                                    ))}
+                                    <li>Prakhar Srivastava</li>
+                                    <li>Ankit Kumar</li>
+                                    <li>Aditya Shekhar</li>
+                                    <li>Deepka Tiwari</li>
+                                    <li>Vishakha Nimesh</li>
+                                    <li>Anshuman Satpathy</li>
+                                    <li>Prafulla Pokhara</li>
+                                    <li>Rahul Silori</li>
                                 </ul>
                             </div>
                             <div className="aluminis-card">
-                                <h4>Master and Undergraduate</h4>
+                                <h4>MTech-BTech</h4>
                                 <ul>
-                                    {teams.map((team, index) => (
-                                        <li key={index}>
-                                            {team.name}, {team.to}, {team.designation}
-                                        </li>
-                                    ))}
+                                    <li>Vinod Bhojwani</li>
+                                    <li>Harshit Khaitan</li>
+                                    <li>Shrikant Bhole</li>
                                 </ul>
                             </div>
                             <div className="aluminis-card">
-                                <h4>Visiting Students and Scholars</h4>
+                                <h4>Postdoc</h4>
                                 <ul>
-                                    {teams.map((team, index) => (
-                                        <li key={index}>
-                                            {team.name}, {team.to}, {team?.colleges[0]}
-                                        </li>
-                                    ))}
+                                    <li>Dr. Isha Vishan</li>
+                                    <li>Dr. Amritanshu Shriwastav</li>
+                                </ul>
+                            </div>
+                            <div className="aluminis-card">
+                                <h4>JRF</h4>
+                                <ul>
+                                    <li>Nivedita Iyer</li>
+                                    <li>Ashwini K. Mohapatra</li>
                                 </ul>
                             </div>
                         </div>

@@ -25,7 +25,7 @@ const Research = () => {
             </div>
           </div>
         </div>
-        <div className="faqs">
+        {/* <div className="faqs">
           <div class="accordion accordion-flush" id="accordionFlushExample">
             {faqs.map((faq, index) => (
               <div key={index} class="accordion-item">
@@ -59,7 +59,7 @@ const Research = () => {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
       </div>
     </main>
   );

@@ -20,7 +20,7 @@ const Education = () => {
                                             {education.points.map((item) => (
                                                 <li>
                                                     <p>{item.text}</p>
-                                                    <div className="images">
+                                                    {/* <div className="images">
                                                         {item.imgpaths &&
                                                             item.imgpaths.map(
                                                                 (imgpath) => (
@@ -32,7 +32,7 @@ const Education = () => {
                                                                     />
                                                                 )
                                                             )}
-                                                    </div>
+                                                    </div> */}
                                                 </li>
                                             ))}
                                         </ul>

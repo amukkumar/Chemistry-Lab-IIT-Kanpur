@@ -190,447 +190,327 @@ export const news = [
 
 export const publications = [
     {
-        title: "Solubility product of chromate analogue of hydrogarnet (Ca3Al2 [CrO4] 0.12 [O4H4] 2.88 (s)) at 25° C",
-        links: {
-            title: "science lab",
-            path: "",
-        },
+        title: "Applied Geochemistry (2023)",
+        author: "M Bhattacharya, T Bandyopadhyay, A Shriwastav, AK Mohapatra, A Singh",
+        data: "Solubility product of chromate analogue of hydrogarnet (Ca3Al2 [CrO4] 0.12 [O4H4] 2.88 (s)) at 25° C"
     },
     {
-        title: "Relative extents, mechanisms, and kinetics of fluoride removal from synthetic groundwater by prevalent sorbents",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Chemosphere (2023)",
+        author: "ASS Ekamparam, H Khaitan, V Nimesh, A Singh",
+        data: "Relative extents, mechanisms, and kinetics of fluoride removal from synthetic groundwater by prevalent sorbents"
     },
     {
-        title: "Enabling marginalized communities to monitor and treat chromium-polluted groundwater with decentralized and affordable technologies",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental Engineering Science (2023)",
+        author: "A Singh, R Tejavath, T Bandyopadhyay, V Bhojwani, M Bhattacharya",
+        data: "Enabling marginalized communities to monitor and treat chromium-polluted groundwater with decentralized and affordable technologies"
     },
     {
-        title: "Investigation of Uranium (VI) Uptake by Rhodochrosite and Its Effect on Uranium Mobility in Sediments",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt 2023 Conference",
+        author: "S Sujathan, S Sharma, A Singh",
+        data: "Investigation of Uranium (VI) Uptake by Rhodochrosite and Its Effect on Uranium Mobility in Sediments"
     },
     {
-        title: "Effect of Magnesium on Fluoride Removal from Groundwater Using Calcium Phosphate-Based Amendments",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt 2023 Conference",
+        author: "AK Mohapatra, A Singh",
+        data: "Effect of Magnesium on Fluoride Removal from Groundwater Using Calcium Phosphate-Based Amendments"
     },
     {
-        title: "Household-scale treatment units for reductive removal of hexavalent chromium from groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Journal of Water Process Engineering (2023)",
+        author: "T Bandyopadhyay, V Bhojwani, H Weigand, A Sharma, A Singh",
+        data: "Household-scale treatment units for reductive removal of hexavalent chromium from groundwater"
     },
     {
-        title: "Identification of potential artificial groundwater recharge sites in an alluvial setting: a coupled electrical resistivity tomography and sediment characterization study",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Groundwater for Sustainable Development 20 (2023)",
+        author: "U Mishra, AK Mohapatra, A Mandal, A Singh",
+        data: "Identification of potential artificial groundwater recharge sites in an alluvial setting: a coupled electrical resistivity tomography and sediment characterization study"
     },
     {
-        title: "Investigation of Potential Drivers of Elevated Uranium Prevalence in Indian Groundwaters with a Unified Speciation Model",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental Science & Technology (2023)",
+        author: "S Sujathan, A Singh",
+        data: "Investigation of Potential Drivers of Elevated Uranium Prevalence in Indian Groundwaters with a Unified Speciation Model"
     },
     {
-        title: "Ultra-fast and robust capture of fluoride by an amino terephthalic acid-facilitated lanthanum-based organic framework: insight into performance and mechanisms",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "New Journal of Chemistry (2023)",
+        author: "N Singh, I Srivastava, AK Mohapatra, A Singh, J Dwivedi",
+        data: "Ultra-fast and robust capture of fluoride by an amino terephthalic acid-facilitated lanthanum-based organic framework: insight into performance and mechanisms"
     },
     {
-        title: "Precipitation of arsenic-bearing solids as a secondary control on arsenic speciation in groundwater: Evidence from field study and geochemical analysis",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Geochimica et Cosmochimica Acta (2023)",
+        author: "JJ Nilling, A Verma, A Singh",
+        data: "Precipitation of arsenic-bearing solids as a secondary control on arsenic speciation in groundwater: Evidence from field study and geochemical analysis"
     },
     {
-        title: "Biogeochemical Processes Governing Arsenic Release in Shallow Mixed Oxic State Groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "2022 Goldschmidt Conference",
+        author: "A Verma, J Mehandia, S Matheshwaran, A Singh",
+        data: "Biogeochemical Processes Governing Arsenic Release in Shallow Mixed Oxic State Groundwater"
     },
     {
-        title: "Kinetics of Precipitation of Barium Chromate [BaCrO4(s)] in Groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "2022 Goldschmidt Conference",
+        author: "A Singh, M Bhattacharya, J Mehandia",
+        data: "Kinetics of Precipitation of Barium Chromate [BaCrO4(s)] in Groundwater"
     },
     {
-        title: "Identification and genome analysis of an arsenic-metabolizing strain of Citrobacter youngae IITK SM2 in middle Indo-Gangetic plain groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "BioMed Research International (2022)",
+        author: "A Verma, PA Murugan, HV Chinnasamy, A Singh, S Matheshwaran",
+        data: "Identification and genome analysis of an arsenic-metabolizing strain of Citrobacter youngae IITK SM2 in middle Indo-Gangetic plain groundwater"
     },
     {
-        title: "Modified biosand filter for provisioning of potable water to rural households affected by chronic arsenic pollution in groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental Engineering Science (2021)",
+        author: "A Verma, LM Sharma, G Pahuja, JJ Nilling, A Kumar, A Singh",
+        data: "Modified biosand filter for provisioning of potable water to rural households affected by chronic arsenic pollution in groundwater"
     },
     {
-        title: "Syntheses, crystal structures and photophysical properties of Cu (ii) complexes: fine tuning of a coordination sphere for selective binding of azamethiphos",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "2021",
+        author: "A Singh, P Raj, N Singh",
+        data: "Syntheses, crystal structures and photophysical properties of Cu (ii) complexes: fine tuning of a coordination sphere for selective binding of azamethiphos"
     },
     {
-        title: "Zwitterionic liquid (ZIL) coated CuO as an efficient catalyst for the green synthesis of bis-coumarin derivatives: via one-pot multi-component reactions using mechanochemistry",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "2021",
+        author: "P Raj, N Singh, A Singh, N Kaur, R Kaur",
+        data: "Zwitterionic liquid (ZIL) coated CuO as an efficient catalyst for the green synthesis of bis-coumarin derivatives: via one-pot multi-component reactions using mechanochemistry"
     },
     {
-        title: "Syntheses and photophysical properties of schiff base Ni (II) complexes: application for sustainable antibacterial activity and cytotoxicity",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "2021",
+        author: "A Singh, P Raj, N Singh",
+        data: "Syntheses and photophysical properties of schiff base Ni (II) complexes: application for sustainable antibacterial activity and cytotoxicity"
     },
     {
-        title: "The role of manganese carbonate precipitation in controlling fluoride and uranium mobilization in groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ACS Earth and Space Chemistry (2021)",
+        author: "AK Mohapatra, S Sujathan, ASS Ekamparam, A Singh",
+        data: "The role of manganese carbonate precipitation in controlling fluoride and uranium mobilization in groundwater"
     },
     {
-        title: "Impact of Manganese-Inhibited Calcite Precipitation on Fluoride Mobilization in Groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt 2021 Virtual (2021)",
+        author: "J Mehandia, A Singh",
+        data: "Impact of Manganese-Inhibited Calcite Precipitation on Fluoride Mobilization in Groundwater"
     },
     {
-        title: "Kinetics of Transformation of Calcite to Fluorapatite Under Flow Conditions",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt 2021 Virtual (2021)",
+        author: "A Singh, ASS Ekamparam, S Sujathan",
+        data: "Kinetics of Transformation of Calcite to Fluorapatite Under Flow Conditions"
     },
     {
-        title: "A Comparative Study on Stabilization of Chromite Ore Processing Residue with Prevalent Reductants",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt (2021)",
+        author: "T Bandyopadhyay, S Kumar, M Bhattacharya, A Singh",
+        data: "A Comparative Study on Stabilization of Chromite Ore Processing Residue with Prevalent Reductants"
     },
     {
-        title: "Potential Role of a Novel Strain of Citrobacter sp. in Controlling Arsenic Speciation in Groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt (2021)",
+        author: "A Verma, PA Murugan, S Matheshwaran, A Singh",
+        data: "Potential Role of a Novel Strain of Citrobacter sp. in Controlling Arsenic Speciation in Groundwater"
     },
     {
-        title: "Microscopic investigations of uranium uptake by rhodochrosite",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Goldschmidt (2021)",
+        author: "S Sujathan, A Singh",
+        data: "Microscopic investigations of uranium uptake by rhodochrosite"
     },
     {
-        title: "Smartphone-enabled field monitoring tool for rapid hexavalent chromium detection in water",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Analytical and Bioanalytical Chemistry (2021)",
+        author: "SD Bamane, V Bhojwani, PL Balkunde, M Bhattacharya, I Gupta",
+        data: "Smartphone-enabled field monitoring tool for rapid hexavalent chromium detection in water"
     },
     {
-        title: "Transformation of calcite to fluorapatite at room temperature: Impact of initial phosphate and fluoride levels",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Geochimica et Cosmochimica Acta (2020)",
+        author: "ASS Ekamparam, A Singh",
+        data: "Transformation of calcite to fluorapatite at room temperature: Impact of initial phosphate and fluoride levels"
     },
     {
-        title: "Processes governing chromium contamination of groundwater and soil from a chromium waste source",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ACS Earth and Space Chemistry (2019)",
+        author: "M Bhattacharya, A Shriwastav, S Bhole, R Silori, T Mansfeldt",
+        data: "Processes governing chromium contamination of groundwater and soil from a chromium waste source"
     },
     {
-        title: "Activated alumina sludge as partial substitute for fine aggregates in brick making",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Construction and Building Materials (2019)",
+        author: "P Pokhara, ASS Ekamparam, AB Gupta, DC Rai, A Singh",
+        data: "Activated alumina sludge as partial substitute for fine aggregates in brick making"
     },
     {
-        title: "Colloidal transport of hexavalent chromium in groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY (2019)",
+        author: "M Bhattacharya, A Singh",
+        data: "Colloidal transport of hexavalent chromium in groundwater"
     },
     {
-        title: "Extent and rates of chromium (VI) leaching from weathered chromium ore processing residue (COPR)-impacted soils",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY (2019)",
+        author: "M Bhattacharya, A Singh",
+        data: "Extent and rates of chromium (VI) leaching from weathered chromium ore processing residue (COPR)-impacted soils"
     },
     {
-        title: "Genome Sequence of Bacillus subtilis subsp. subtilis strain IITK SM1, Isolated from Kitchen Waste Compost",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Microbiology Resource Announcements (2019)",
+        author: "MP Anand, VC Hariharan, H Shankar, A Singh, M Saravanan",
+        data: "Genome Sequence of Bacillus subtilis subsp. subtilis strain IITK SM1, Isolated from Kitchen Waste Compost"
     },
     {
-        title: "A facile route to ionic liquids-functionalized ZnO nanorods for the fluorometric sensing of thiabendazole drug",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "2018",
+        author: "A Singh, N Kaur, P Raj, DY Kim, N Singh",
+        data: "A facile route to ionic liquids-functionalized ZnO nanorods for the fluorometric sensing of thiabendazole drug"
     },
     {
-        title: "Removal of hexavalent chromium upon interaction with biochar under acidic conditions: mechanistic insights and application",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental Science and Pollution Research (2017)",
+        author: "B Choudhary, D Paul, A Singh, T Gupta",
+        data: "Removal of hexavalent chromium upon interaction with biochar under acidic conditions: mechanistic insights and application"
     },
     {
-        title: "Design and fabrication of indigenous 30 kA Nb3Sn CICC for fusion relevant superconducting magnet",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "IOP Conference Series: Materials Science and Engineering (2017)",
+        author: "P Raj, M Ghate, S Pradhan, A Singh, MM Hussain",
+        data: "Design and fabrication of indigenous 30 kA Nb3Sn CICC for fusion relevant superconducting magnet"
     },
     {
-        title: "Environmental status of groundwater affected by chromite ore processing residue (COPR) dumpsites during pre-monsoon and monsoon seasons",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental Science and Pollution Research (2017)",
+        author: "K Matern, H Weigand, A Singh, T Mansfeldt",
+        data: "Environmental status of groundwater affected by chromite ore processing residue (COPR) dumpsites during pre-monsoon and monsoon seasons"
     },
     {
-        title: "Are nasogastric tubes with a bridle a safe alternative to a percutaneous gastrostomy in patients with an acute stroke?",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "INTERNATIONAL JOURNAL OF STROKE (2016)",
+        author: "A Singh, S Pradhan, U Hussain",
+        data: "Are nasogastric tubes with a bridle a safe alternative to a percutaneous gastrostomy in patients with an acute stroke?"
     },
     {
-        title: "Fracture system evolution during progressive deformation in Pelling-Munsiari thrust fault zone: A case study from Darjeeling-Sikkim Himalayan fold thrust belt",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ANNUAL GENERAL MEETING OF THE GEOLOGICAL SOCIETY OF INDIA (2016)",
+        author: "A Singh, P Ghosh, K Bhattacharyya",
+        data: "Fracture system evolution during progressive deformation in Pelling-Munsiari thrust fault zone: A case study from Darjeeling-Sikkim Himalayan fold thrust belt"
     },
     {
-        title: "Atomic force microscopy studies of homoepitaxial GaN layers grown on GaN template by laser MBE",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "AIP Conference Proceedings (2016)",
+        author: "BS Choudhary, A Singh, S Tanwar, PK Tyagi, MS Kumar, SS Kushvaha",
+        data: "Atomic force microscopy studies of homoepitaxial GaN layers grown on GaN template by laser MBE"
     },
     {
-        title: "Stabilization of soil using GGBS and calcium carbide residue",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "International Journal of Innovative Research in Science, Engineering (2016)",
+        author: "TS Bandyopadhyay, AA Singh, V Pandey, JP Singh",
+        data: "Stabilization of soil using GGBS and calcium carbide residue"
     },
     {
-        title: "Uranium (VI) uptake on iron oxide surfaces: The transition from adsorption to precipitation",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Abstracts of Papers of the American Chemical Society (2015)",
+        author: "D Giammar, A Singh, V Mehta, L Troyer, F Maillot, J Catalano",
+        data: "Uranium (VI) uptake on iron oxide surfaces: The transition from adsorption to precipitation"
     },
     {
-        title: "Alleviation of soil salinity by zinc fertilizer in wheat (Triticum aestivum L.)",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Plant Archives (2013)",
+        author: "D Singh, PC Ram, A Singh, SR Dar, JP Srivastava",
+        data: "Alleviation of soil salinity by zinc fertilizer in wheat (Triticum aestivum L.)"
     },
     {
-        title: "Molecular-scale structure of uranium (VI) immobilized with goethite and phosphate",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental science & technology (2012)",
+        author: "A Singh, JG Catalano, KU Ulrich, DE Giammar",
+        data: "Molecular-scale structure of uranium (VI) immobilized with goethite and phosphate"
     },
     {
-        title: "Molecular-Scale Structure of Uranium (VI) Immobilized with Goethite and Phosphate",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Molecular-Scale Structure of Uranium (VI) Immobilized with Goethite and Phosphate (2012)",
+        author: "S Abhas, U Kai-Uwe",
+        data: ""
     },
     {
-        title: "Uranium (VI) speciation and release kinetics from contaminated vadose zone sediments",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Abstracts of Papers of the American Chemical Society (2011)",
+        author: "A Singh, J Zachara, Z Wang, C Liu, J Liu, D Moore",
+        data: "Uranium (VI) speciation and release kinetics from contaminated vadose zone sediments"
     },
     {
-        title: "P52 3T MRI determination of circumferential resection margin in rectal cancer–Correlation with histopathology",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "EJC Supplements (2011)",
+        author: "A Singh, P Chatterjee, A Eapen, B Perakath",
+        data: "P52 3T MRI determination of circumferential resection margin in rectal cancer–Correlation with histopathology"
     },
     {
-        title: "Impact of phosphate on U (VI) immobilization in the presence of goethite",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Geochimica et cosmochimica acta (2010)",
+        author: "A Singh, KU Ulrich, DE Giammar",
+        data: "Impact of phosphate on U (VI) immobilization in the presence of goethite"
     },
     {
-        title: "Geochemical conditions affecting uranium fate and transport in soil and groundwater in the presence of phosphate",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Washington University in St. Louis (2010)",
+        author: "A Singh",
+        data: "Geochemical conditions affecting uranium fate and transport in soil and groundwater in the presence of phosphate"
     },
     {
-        title: "Nanoscale size effects on uranium (VI) adsorption to hematite",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental science & technology (2009)",
+        author: "H Zeng, A Singh, S Basak, KU Ulrich, M Sahu, P Biswas, JG Catalano",
+        data: "Nanoscale size effects on uranium (VI) adsorption to hematite"
     },
     {
-        title: "GEOC 31-Nanoscale size effects on uranium (VI) adsorption and surface-mediated reduction by iron (II) on hematite nanoparticles",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY (2008)",
+        author: "H Zeng, A Singh, S Basak, M Sahu, P Biswas, JG Catalano, DE Giammar",
+        data: "Nanoscale size effects on uranium (VI) adsorption and surface-mediated reduction by iron (II) on hematite nanoparticles"
     },
     {
-        title: "Dissolution of Biogenic and Synthetic UO2 under Varied Reducing Conditions",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental science & technology (2008)",
+        author: "KU Ulrich, A Singh, EJ Schofield, JR Bargar, H Veeramani, JO Sharp",
+        data: "Dissolution of Biogenic and Synthetic UO2 under Varied Reducing Conditions"
     },
     {
-        title: "Nano-scale structure and stability of biogenic Uranium (IV) oxide",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Environmental Science&Technology (2008)",
+        author: "U Kai-Uwe, S Abhas, V Harish, BL Rizlan",
+        data: "2under Varied Reducing Conditions"
     },
     {
-        title: "Uranium (VI)-phosphate interactions at the goethite-water interface",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Geochimica et Cosmochimica Acta Supplement (2008)",
+        author: "A Singh, K Ulrich, DE Giammar",
+        data: "Uranium (VI)-phosphate interactions at the goethite-water interface"
     },
     {
-        title: "Uranium (IV) oxide surface reactivity",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "GEOCHIMICA ET COSMOCHIMICA ACTA (2007)",
+        author: "KU Ulrich, EJ Schofield, JR Bargar, JO Sharp, H Veeramani",
+        data: "Uranium (IV) oxide surface reactivity"
     },
     {
-        title: "Adsorption and surface precipitation of uranyl phosphate on goethite",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY (2007)",
+        author: "A Singh, DE Giammar",
+        data: "Adsorption and surface precipitation of uranyl phosphate on goethite"
     },
     {
-        title: "Nanoscale Structure and Dissolution Kinetics of Abiotic and Bacteriogenic Uraninite",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY (2007)",
+        author: "KU Ulrich, A Singh, S Dixon, DE Giammar, H Veeramani, JO Sharp",
+        data: "Nanoscale Structure and Dissolution Kinetics of Abiotic and Bacteriogenic Uraninite"
     },
     {
-        title: "Effect of seedling age on submergence tolerance of rainfed low land rice",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Annals of Plant Physiology (2005)",
+        author: "PN Singh, PC Ram, A Singh, BB Singh",
+        data: "Effect of seedling age on submergence tolerance of rainfed low land rice"
     },
     {
-        title: "Enhancement of conception rate by EveCare after ovulation induction by clomiphene citrate followed by intrauterine insemination",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Advances in Obstetrics & Gynecology (2001)",
+        author: "A Kumar, A Singh",
+        data: "Enhancement of conception rate by EveCare after ovulation induction by clomiphene citrate followed by intrauterine insemination"
     },
     {
-        title: "Calculation of the Integral∫ T0T′ mexp (–E/RT′) T′",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Journal of thermal analysis and calorimetry (2000)",
+        author: "S Singh, W Devi, A Singh, M Bhattacharya, P Mazumdar",
+        data: "Calculation of the Integral∫ T0T′ mexp (–E/RT′) T′"
     },
     {
-        title: "Production of thermostable acid protease by Aspergillus niger",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Letters in applied microbiology (1994)",
+        author: "A Singh, VK Ghosh, P Ghosh",
+        data: "Production of thermostable acid protease by Aspergillus niger"
     },
     {
-        title: "Oxidation of tryptophan and N-methylindole by N3sm-bullet, Br2sm-bullet-, and (SCN)2sm-bullet- radicals in light- and heavy-water solutions: A pulse",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Journal of Physical Chemistry; (United States) (1991)",
+        author: "S Solar, N Getoff, PS Surdhar, DA Armstrong, A Singh",
+        data: "Oxidation of tryptophan and N-methylindole by N sub 3 sup sm bullet, Br sub 2 sup sm bullet minus, and (SCN) sub 2 sup sm bullet minus radicals in light-and heavy-water"
     },
     {
-        title: "A study on the operational correlates of persisting malaria in Shankergarh block of district Allahabad.",
-        links: {
-            title: "",
-            path: "",
-        },
+        title: "Journal of Physical Chemistry (1991)",
+        author: "S Solar, N Getoff, PS Surdhar, DA Armstrong, A Singh",
+        data: "Oxidation of tryptophan and N-methylindole by N3sm-bullet, Br2sm-bullet-, and (SCN)2sm-bullet- radicals in light- and heavy-water solutions: A pulse"
+    },
+    {
+        title: "1984",
+        author: "A Singh, B Raj, PL Joshi, M Bhattacharya",
+        data: "A study on the operational correlates of persisting malaria in Shankergarh block of district Allahabad."
     },
     {
         title: "Geochemical analysis of arsenic speciation in groundwater",
-        links: {
-            title: "",
-            path: "",
-        },
+        author: "JJ Nilling, A Verma, A Singh",
+        data: ""
     },
     {
         title: "ATTITUDES AMD AWARENESS OF JHUMIAS ISSUES IM ECO—DEVELOPMENT",
-        links: {
-            title: "",
-            path: "",
-        },
+        author: "NVRBSN Reddy, A Singh",
+        data: ""
     },
     {
         title: "Understanding the (Bio) geochemistry of an Arsenic-Contaminated Aquifer for Sustainable Remediation",
-        links: {
-            title: "",
-            path: "",
-        },
-    },
+        author: "A Verma, G Pahuja, A Kumar, JJ Nilling, PA Murugan, S Matheswaran",
+        data: ""
+    }
 ];
+
 
 
 export const groupActivities = [
@@ -914,6 +794,180 @@ export const msrStudent = [
         info: 'Programme- MS (By Research)'
 
     },
+]
+
+export const pastPhdStudent = [
+    {
+        name: 'Surya Sujathan',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'suryaj@iitk.ac.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem13.jpg',
+        info: 'Postdoc(University of Sydney,Australia)'
+
+    },
+    {
+        name: 'Mainak Bhattacharya',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'mbmainak89@gmail.com',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem14.png',
+        info: 'Postdoc(IIT Delhi)'
+
+    },
+    {
+        name: 'Aravinth Siva Subramaniam Ekamparam',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'aravinthpillai@outlook.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem15.png',
+        info: 'Postdoc(University of Oregaon)'
+
+    },
+    {
+        name: 'Dr jacklin JJnilling',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'jjnsese@gmail.com',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem16.jpg',
+        info: 'Assistant Professor(NIT Surathkal)'
+
+    },
+]
+
+export const pastMTech = [
+    {
+        name: 'Akshat Verma',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'averma93@gmail.com',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem5.jpg',
+        info: 'Phd(IIT Kanpur) Programme-M.tech'
+
+    },
+    {
+        name: 'Guarav Pahuja',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'gauravpahuja17@gmail.com',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem17.jpg',
+        info: 'Software Engineer @ Sirionlabs Programme-M.tech'
+
+    },
+    {
+        name: 'Maniratnam Prakash',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'mprakashm23@iitk.ac.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem7.jpg',
+        info: 'Phd(IIT Kanpur) Programme-M.tech'
+
+    },
+    {
+        name: 'Muktesh Bhatt',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'bhattmuktesh@gmail.com',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem18.jpg',
+        info: 'Phd(IIT Bombay) Programme-M.tech'
+
+    },
+    {
+        name: 'Kopal Nema',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'kopal@iitk.ac.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem19.png',
+        info: 'Urban development company (Civil Engineer) Programme-M.tech'
+
+    },
+    {
+        name: 'Tavishi Mishra',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'suryaj@iitk.ac.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem20.jpg',
+        info: 'GHG Lead Assessor @ Ecohodo - Programme- MS (By Research)'
+    },
+
+    {
+        name: 'Tathagata Bandyopadhyay',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'tathabd@iitk.ac.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem21.jpg',
+        info: 'Consultant @ ERM - Programme- MS (By Research)'
+    },
+
+    {
+        name: 'Rakesh Tejhavath',
+        isPrincipal: false,
+        from: '2020',
+        to: '2023',
+        designation: 'Student',
+        mobile: '',
+        email: 'trakesh20@iitk.ac.in',
+        studies: 'Graduation-Ongoing',
+        colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
+        imgpath: 'assets/images/tem22.jpg',
+        info: 'Phd (IIT Hyderabad) - Programme- MS (By Research)'
+    },
+
 ]
 
 export const research = [
