@@ -7,7 +7,9 @@ const TeamCard = ({ item }) => {
       <header>{item.designation}</header>
       <div className='team-card-content'>
         <img src={item.imgpath} alt="" />
-        <p> <Link to={`/team/${item.name}`}>{item.name}</Link>  {item.info}</p>
+        <p> {item.name}</p>
+        <p> {item.info}</p>
+        <p> {item.email}</p>
       </div>
 
     </div>

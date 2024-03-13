@@ -644,7 +644,7 @@ export const teams = [
         to: '2023',
         designation: 'Lab Assistant',
         mobile: '9161348505',
-        email: 'hahidk@iitk.ac.in',
+        email: 'shahidk@iitk.ac.in',
         studies: 'Graduation-Ongoing',
         colleges: ['University Institue of Technology, Indore', 'IIT , Jabalpur'],
         imgpath: 'assets/images/tem2.jpeg',
@@ -652,7 +652,7 @@ export const teams = [
 
     },
     {
-        name: 'Maniratnam Prakash',
+        name: 'Munish Kumar Upadhyay',
         isPrincipal: false,
         from: '2020',
         to: '2023',
@@ -683,7 +683,7 @@ export const students = [
 
     },
     {
-        name: 'Akshat Verma',
+        name: 'Maniratnam Prakash',
         isPrincipal: false,
         from: '2020',
         to: '2023',

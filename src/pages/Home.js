@@ -74,7 +74,7 @@ const Home = () => {
             </div>
           </div>
         </section>
-        <section className="recent-news">
+        {/* <section className="recent-news">
           <header>
             <h3>Recent News</h3>
             <div className="line"></div>
@@ -85,7 +85,7 @@ const Home = () => {
               <RecentNewsCard key={index} item={item} />
             ))}
           </div>
-        </section>
+        </section> */}
       </div>
     </main>
   );

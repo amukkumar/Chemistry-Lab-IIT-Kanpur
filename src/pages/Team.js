@@ -24,7 +24,7 @@ const Team = () => {
                                     />
                                 </div>
                                 <div className="teams-content">
-                                    <h5><Link to={`/team/Abhas Singh`}>Abhas Singh</Link></h5>
+                                    <h5>Abhas Singh</h5>
                                     <p>PhD(Washington University)</p>
                                     <p>Phone: 0512-259-7665</p>
                                     <p>Email:  abhas@iitk.ac.in</p>
