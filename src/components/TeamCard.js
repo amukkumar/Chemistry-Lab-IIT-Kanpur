@@ -9,7 +9,7 @@ const TeamCard = ({ item }) => {
         <img src={item.imgpath} alt="" />
         <p> {item.name}</p>
         <p> {item.info}</p>
-        <p> {item.email}</p>
+        <p>Email: {item.email}</p>
       </div>
 
     </div>
